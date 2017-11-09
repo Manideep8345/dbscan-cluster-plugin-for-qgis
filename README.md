@@ -1,1 +1,2 @@
-this is plugin for qgis standalone app. 
+this is plugin for qgis standalone app.
+manideep. 
