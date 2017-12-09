@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/DbscanCluster" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
